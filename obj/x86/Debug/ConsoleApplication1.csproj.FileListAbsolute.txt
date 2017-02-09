@@ -1,0 +1,58 @@
+C:\Users\Slavik\Desktop\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Slavik\Desktop\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Slavik\Desktop\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\Slavik\Desktop\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\Slavik\Desktop\Программирования\Sigma решение тестов\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\Slavik\Desktop\Программирования\Sigma решение тестов\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\Slavik\Desktop\Программирования\Sigma решение тестов\bin\Debug\ConsoleApplication1.exe
+C:\Users\Slavik\Desktop\Программирования\Sigma решение тестов\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Slavik\Desktop\Программирования\Sigma решение тестов\obj\x86\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Slavik\Desktop\Test\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\Slavik\Desktop\Test\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\Slavik\Desktop\Test\bin\Debug\ConsoleApplication1.exe
+C:\Users\Slavik\Desktop\Test\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Slavik\Desktop\Test\obj\x86\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Slavik\Desktop\Test1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\Slavik\Desktop\Test1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\Slavik\Desktop\Test1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Slavik\Desktop\Test1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Slavik\Desktop\Test1\obj\x86\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Slavik\Desktop\Test1 - копия\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\Slavik\Desktop\Test1 - копия\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\Slavik\Desktop\Test1 - копия\obj\x86\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Slavik\Desktop\Test1 - копия\bin\Debug\ConsoleApplication1.exe
+C:\Users\Slavik\Desktop\Test1 - копия\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Slavik\Desktop\Test2\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\Slavik\Desktop\Test2\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\Slavik\Desktop\Test2\bin\Debug\ConsoleApplication1.exe
+C:\Users\Slavik\Desktop\Test2\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Slavik\Desktop\Test2\obj\x86\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Slavik\Desktop\Test3\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\Slavik\Desktop\Test3\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\Slavik\Desktop\Test3\obj\x86\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Slavik\Desktop\Test3\bin\Debug\ConsoleApplication1.exe
+C:\Users\Slavik\Desktop\Test3\bin\Debug\ConsoleApplication1.pdb
+D:\Test2\bin\Debug\ConsoleApplication1.exe
+D:\Test2\bin\Debug\ConsoleApplication1.pdb
+D:\Test2\obj\x86\Debug\ConsoleApplication1.exe
+D:\Test2\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\Slavik\Desktop\Work3\bin\Debug\ConsoleApplication1.exe
+C:\Users\Slavik\Desktop\Work3\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Slavik\Desktop\Work3\obj\x86\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Slavik\Desktop\Work3\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\Slavik\Desktop\Work3\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\Slavik\Desktop\Work4\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\Slavik\Desktop\Work4\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\Slavik\Desktop\Work4\obj\x86\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Slavik\Desktop\Work4\bin\Debug\ConsoleApplication1.exe
+C:\Users\Slavik\Desktop\Work4\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Slavik\Desktop\Work5\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\Slavik\Desktop\Work5\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\Slavik\Desktop\Work5\bin\Debug\ConsoleApplication1.exe
+C:\Users\Slavik\Desktop\Work5\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Slavik\Desktop\Work5\obj\x86\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Slavik\Desktop\Проект\Work6\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\Slavik\Desktop\Проект\Work6\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\Slavik\Desktop\Проект\Work6\bin\Debug\ConsoleApplication1.exe
+C:\Users\Slavik\Desktop\Проект\Work6\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Slavik\Desktop\Проект\Work6\obj\x86\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
