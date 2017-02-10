@@ -7,7 +7,7 @@ using ConsoleApplication1.Views;
 
 namespace ConsoleApplication1.Controllers
 {
-    class BusinessLogic
+    public static class BusinessLogic
     {
         public static int maximumOfPoints = 21;
         public static void Game()
